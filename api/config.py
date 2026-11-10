@@ -17,8 +17,8 @@ JWT_TTL_SEGUNDOS = int(os.getenv("JWT_TTL_SEGUNDOS", "3600"))
 JWT_ISSUER = "catalogo-api"
 
 # Usuario de demostración para el taller.
-ADMIN_EMAIL = os.getenv("ADMIN_EMAIL", "admin@catalogo.com")
-ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "admin123")
+ADMIN_EMAIL = os.getenv("ADMIN_EMAIL", "admin@shelseh.com")
+ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "adminShelseh2024")
 ADMIN_NOMBRE = os.getenv("ADMIN_NOMBRE", "Administrador")
 
 MAX_BODY_BYTES = 1_000_000

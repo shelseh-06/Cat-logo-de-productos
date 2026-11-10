@@ -1,45 +1,45 @@
 {
-  "siguiente_id": 11,
+  "siguiente_id": 5,
   "productos": [
     {
       "id": 1,
-      "nombre": "Audífonos inalámbricos",
-      "descripcion": "Bluetooth 5.3, estuche de carga y hasta 24 horas de batería.",
-      "precio": 59.9,
-      "stock": 25,
-      "categoria": "Electrónica",
-      "creado_en": "2026-01-15T10:00:00Z",
-      "actualizado_en": "2026-01-15T10:00:00Z"
+      "nombre": "Labial líquido mate",
+      "descripcion": "Larga duración, acabado satinad y hasta 8 horas sin retoques.",
+      "precio": 22.5,
+      "stock": 35,
+      "categoria": "Belleza",
+      "creado_en": "2026-03-01T10:00:00Z",
+      "actualizado_en": "2026-03-01T10:00:00Z"
     },
     {
       "id": 2,
-      "nombre": "Lámpara de escritorio",
-      "descripcion": "Luz LED regulable con brazo articulado y base metálica.",
-      "precio": 34.5,
-      "stock": 12,
-      "categoria": "Hogar",
-      "creado_en": "2026-01-16T11:30:00Z",
-      "actualizado_en": "2026-01-16T11:30:00Z"
+      "nombre": "Esmalte de uñas",
+      "descripcion": "Secado rápido, colores vibrantes y fino para capas múltiples.",
+      "precio": 12.9,
+      "stock": 60,
+      "categoria": "Belleza",
+      "creado_en": "2026-03-02T11:30:00Z",
+      "actualizado_en": "2026-03-02T11:30:00Z"
     },
     {
       "id": 3,
-      "nombre": "Camiseta básica",
-      "descripcion": "Algodón peinado, corte regular, disponible en varios colores.",
-      "precio": 19.99,
-      "stock": 40,
-      "categoria": "Ropa",
-      "creado_en": "2026-01-17T09:15:00Z",
-      "actualizado_en": "2026-01-17T09:15:00Z"
+      "nombre": "Perfume floral",
+      "descripcion": "Notas de jazmín y sándalo, fragancia duradera para el día.",
+      "precio": 38.9,
+      "stock": 20,
+      "categoria": "Belleza",
+      "creado_en": "2026-03-03T09:15:00Z",
+      "actualizado_en": "2026-03-03T09:15:00Z"
     },
     {
       "id": 4,
-      "nombre": "Balón de fútbol",
-      "descripcion": "Balón tamaño oficial con superficie resistente para exterior.",
-      "precio": 24.0,
-      "stock": 18,
-      "categoria": "Deportes",
-      "creado_en": "2026-01-18T16:45:00Z",
-      "actualizado_en": "2026-01-18T16:45:00Z"
+      "nombre": "Brocha de maquillaje",
+      "descripcion": "Cerdas sintéticas suaves, aplicado uniforme y fácil limpieza.",
+      "precio": 15.0,
+      "stock": 50,
+      "categoria": "Belleza",
+      "creado_en": "2026-03-04T16:45:00Z",
+      "actualizado_en": "2026-03-04T16:45:00Z"
     }
   ]
 }
