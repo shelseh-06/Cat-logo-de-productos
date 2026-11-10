@@ -8,7 +8,7 @@ FRONTEND_DIR = BASE_DIR / "frontend"
 DATA_DIR = BASE_DIR / "api" / "data"
 PRODUCTOS_FILE = DATA_DIR / "productos.json"
 
-HOST = os.getenv("HOST", "127.0.0.1")
+HOST = os.getenv("HOST", "0.0.0.0")
 PORT = int(os.getenv("PORT", "8000"))
 
 # En un entorno real usa una clave larga y secreta (variable de entorno).
